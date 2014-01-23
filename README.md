@@ -1,4 +1,5 @@
 example
 =======
 
-A really dumb example of git.
+A really mediocre example of using Git, done live in class.
+Whee.
